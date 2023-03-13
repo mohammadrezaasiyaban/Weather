@@ -5,6 +5,7 @@
     android:id="@+id/nav_graph"
     app:startDestination="@id/detailsFragment">
     <fragment
+
         android:id="@+id/detailsFragment"
         android:name="com.example.weatherapplication.fragment.DetailsFragment"
         android:label="fragment_details"
