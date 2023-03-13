@@ -19,5 +19,8 @@ public class DetailsFragment extends BaseFragment {
                              Bundle savedInstanceState) {
         binding=FragmentHomeBinding.inflate(inflater,container,false);
         return binding.getRoot();
+
+
+
     }
 }
